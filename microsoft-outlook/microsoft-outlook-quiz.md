@@ -3,25 +3,25 @@
 #### 1. What can you set a reminder for in Outlook?
 - [ ] all of these answers
 - [ ] contacts
-- [ ] email messages
+- [x] email messages
 - [ ] appointments and meetings
 
 #### 2. What is the default permission that other people in your organization have to your calendar?
-- [ ] none of these answers
+- [x] none of these answers
 - [ ] They can edit.
 - [ ] They can view all details.
 - [ ] They can view titles and locations.
 
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 - [ ] Click New Items > New Appointment.
-- [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
+- [x] Click Calendar > New Meeting, and then copy and paste information as needed.
 - [ ] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
 - [ ]  all of these answers
 - [ ] Archive messages you are done with.
-- [ ] Save and then remove large attachments from messages
+- [x] Save and then remove large attachments from messages
 - [ ] Sort by size and then delete large messages.
 
 #### 5. Why are read receipts less reliable than delivery receipts?
@@ -32,11 +32,11 @@ C. Read receipts are expensive, so some organizations turn them off.
 ```
 - [ ] A and C
 - [ ] B and C
-- [ ] A and B
+- [x] A and B
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
-- [ ] Bcc
+- [x] Bcc
 - [ ] to
 - [ ] cc
 - [ ] From
@@ -45,13 +45,13 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] to Diane and Joey
 - [ ] to Diane and bcc Joey
 - [ ] to Joey and bcc Diane
-- [ ] to Diane and cc Joey
+- [x] to Diane and cc Joey
 
 #### 8. Which choice is not an attachment?
 - [ ] a PDF document included with an email
 - [ ] a Word document included with an email
-- [ ] (Â) a calendar item included with an email
-- [ ] a hyperlink included in an email
+- [ ] a calendar item included with an email
+- [x] a hyperlink included in an email
 
 #### 9. You can use a___to indicate that a message requires further action and a__to organize the message.
 - [ ] folder; category
@@ -73,7 +73,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 12. What appears on your screen whenever a new email arrives?
 - [ ] an emoji
-- [ ] an alert
+- [x] an alert
 - [ ] a notice
 - [ ] a bell icon
 
@@ -89,18 +89,18 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Filter
 - [ ] Junk Mail
 - [ ] The Delete Key
-- [ ] Clean Up Conversation
+- [x] Clean Up Conversation
 
 #### 15. You have sent several emails to a customer and have not received a response. What option do you set to know whether the customer receives your messages?
 
-- [ ] Delivery receipt
+- [x] Delivery receipt
 - [ ] All of these answers
 - [ ] Read receipt
 - [ ] Tracking
 
 #### 16. A message on your summary list appears with a paper clip icon and an arrow pointing to the left. What does this indicate?
 
-- [ ] The message has been replied to and contains an attachment
+- [x] The message has been replied to and contains an attachment
 - [ ] The message has been flagged and contains an attachment
 - [ ] None of these answers
 - [ ] The message has been forwarded and contains an attachment
@@ -116,7 +116,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] Right click the email message, drag and drop it on the Tasks icon, and click Copy Here as Task with Attachment
 - [ ] Copy and paste the notes into a new task form
-- [ ] Drag the email message and drop it on the Tasks icon
+- [x] Drag the email message and drop it on the Tasks icon
 - [ ] Right click the email message, drag and drop it on the Tasks icon, and click Move Here as Task with Attachment
 
 #### 19. There are two types of Outlook rules. One is server-based rules, which run for Exchange Server. What are the other kind, which in part or in whole cannot run on Exchange Server, and when do the execute?
@@ -138,32 +138,32 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Sort the messages by size then filter by Has: Attachments
 - [ ] Sort the messages by sender
 - [ ] Sort the messages by Has: Attachments and then filter by Is: Large
-- [ ] Sort the messages by Has: Attachments and then by size
+- [x] Sort the messages by Has: Attachments and then by size
 
 #### 22. What is not a built-in search filter for message folder?
 
 - [ ] Has Attachments
 - [ ] Sent to me as Bcc
 - [ ] Categorized
-- [ ] Not sent directly to me
+- [x] Not sent directly to me
 
 #### 23. You created a meeting for next Friday at 1 PM, and several invitees have accepted. How do you change only your version of the meeting to 12 PM to allow time to setup?
 
 - [ ] Double click the meeting to open its form, and then change the start time and close it
 - [ ] None of these answers
 - [ ] Open the calendar in Day, Week, or Work Week view and drag the start time to 12 PM
-- [ ] You must create a separate appointment for yourself from 12 PM to 1 PM
+- [x] You must create a separate appointment for yourself from 12 PM to 1 PM
 
 #### 24. What is the fastest way to find a message sent by Bonnie Bradford that includes an attachment?
 
 - [ ] Search based on sender then filter by Has Attachments
-- [ ] Search for "has:attachments" and then filter by Bonnie Bradford
+- [x] Search for "has:attachments" and then filter by Bonnie Bradford
 - [ ] All of these answers
 - [ ] Enter "Bonnie Bradford attachment" in the search box
 
 #### 25. Each category must have a unique ___
 
-- [ ] color
+- [x] color
 - [ ] folder
 - [ ] name
 - [ ] name and color
@@ -227,13 +227,13 @@ C. Some people have already accepted, so you must cancel this meeting and create
 
 - [ ] B
 - [ ] C
-- [ ] A or B
+- [x] A or B
 - [ ] A
 
 #### 34. What permission allows your delegates to read, create, change, and delete items that they create, but not items that you created?
 
 - [ ] Reader
-- [ ] Author
+- [x] Author
 - [ ] Reviewer
 - [ ] Editor
 
